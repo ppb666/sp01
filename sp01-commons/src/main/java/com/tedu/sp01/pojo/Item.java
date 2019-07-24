@@ -8,8 +8,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	//编号
+	//编号  先提交到本地库,然后上传到git库
 	private Integer id;
 	private String name;
 	private Integer number;
+	//111111
 }
